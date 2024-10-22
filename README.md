@@ -209,7 +209,8 @@ minikube ip
 
 - Check the browser
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b2e848df-9ad3-48fe-82e5-a2ae2f74624c/fcb64891-1b96-4cc8-bb3a-417b882da631/image.png)
+![image](https://github.com/user-attachments/assets/f5b076f8-4a9e-4b97-b1b2-490d840153d3)
+
 
 **Note**: here we are using a tunnel from the IP to target the cluster to the [localhost](http://localhost), since i couldn’t access from the [http://192.168.49.2:30100](http://192.168.49.2:30100/), this may be due to the port is busy.
 
