@@ -4,7 +4,7 @@ In this project, the goal is to deploy a webapp on NGINX linked to an external d
 
 We’ll discuss the architecture and the choice of the several components below.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b2e848df-9ad3-48fe-82e5-a2ae2f74624c/9992c593-17af-4c90-a0ea-f1c2aeda8569/image.png)
+![image](https://github.com/user-attachments/assets/5a337ca5-de07-4c47-9088-5c1afbe95e23)
 
 ## Service (SVC)
 
